@@ -1,4 +1,4 @@
-board = [" "," "," "," "," "," "," "," "," "]
+
 def play(board) 
 while !over?(board)
 turn(board)
